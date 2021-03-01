@@ -1,0 +1,206 @@
+@import '~bootstrap-icons/font/bootstrap-icons';
+
+.bi-tree-fill{
+  width: 15px;
+  height: 15px;
+  color: #00ffbb;
+}
+
+.navi{
+  margin: auto;
+}
+
+.nav-item{
+  padding-left: 15%;
+  letter-spacing: 2px;
+}
+
+.navbar-collapse{
+  margin-left: 30%;
+}
+
+.nav-link:hover{
+  color: #f26c4f !important;
+}
+
+.introduction{
+  height: 500px;
+  width: 100%;
+  background: #222222;
+}
+.circle{
+  width: 3em;
+  height: 3em;
+  background: #00ffbb;
+  margin-left: 70%;
+  margin-top: 13em;
+  border-radius: 50%;
+
+}
+
+.arrow-right {
+  width: 0; 
+  height: 0; 
+  border-top: 80px solid transparent;
+  border-bottom: 80px solid transparent;
+  border-left: 80px solid #2f2f2f;
+  margin-left: 67%;
+  margin-top: -12em;
+  transform: rotate(-110deg);
+}
+
+.description{
+  
+  position: relative;
+  margin-left: 50%;
+  margin-top: 10%;
+  font-size: 15px;
+
+}
+
+.header{
+  color: #f26c4f;
+  text-decoration: underline;
+}
+.sub-header{
+  color: #fff;
+}
+
+.paragraf{
+  color:#8c8c8c;
+}
+
+.intro-contact{
+  color: #f26c4f
+}
+.name-surname{
+  color:cornsilk;
+  position: relative;
+  margin-top: -20%;
+}
+
+.name{
+  margin-left: 20%;
+  font-size: 70px;
+  
+}
+.surname{
+  margin-left: 23%;
+  font-size: 70px;
+  
+}
+
+.bottom{
+  background-color: #1f1f1f !important;
+  width: 100%;
+  height: 400px;
+}
+
+.about-me{
+  color:#e76148 ;
+  text-decoration: underline;
+}
+
+.philosophy{
+  color: #fff;
+}
+
+.author{
+  color: #fff;
+}
+
+.personal-info{
+  width: 25em;
+  height: 15em;
+  position: relative;
+  margin-left: 15%;
+  padding-top: 2em;
+}
+
+.about-me-paragraf{
+  color:#9c9c9c ;
+}
+
+.discuss{
+  
+  position: relative;
+  width: 19em;
+  color: #fff;
+  margin-top: -80%;
+  padding-top: -2em;
+  margin-left: 170%;
+  border-left: 1px solid #e76148;
+}
+
+
+.skills{
+  color: #e76148;
+  list-style: none;
+  text-decoration: underline;
+  padding-left: 2.5em;
+}
+
+.skill-list{
+  list-style: none;
+  font-size: 1.3em;
+}
+.skill-list>li{
+  padding-top: 3px;
+}
+
+.footer{
+  width: 100%;
+  height: 150px;
+  padding-top: 3%;
+  padding-bottom: 5px;
+}
+
+.paragraf{
+  color: #a0a0a0;
+}
+
+.social{
+  list-style: none;
+  display: flex;
+}
+
+.social-li{
+  font-size: 30px;
+  margin-left: 3%;
+}
+
+.footer-icon{
+  color: #fff;
+  
+}
+
+.footer-icon:hover{
+  color: #e76148;
+}
+
+
+.footer-foot{
+ margin-left: 40%;
+}
+
+.contact{
+  color: #e76148 !important;
+  width: 100%;
+  height: 600px;
+  text-align: center;
+  padding-top:100px;
+
+}
+
+.contact-value{
+  position: relative;
+  
+}
+
+.form-group{
+  width: 30%;
+}
+
+.btn-info{
+  background-color: #e76148 !important ;
+}
